@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@vscode/markdown-it-katex": "^1.1.1",
+    "markdown-it": "^14.1.0",
+    "markdown-it-katex": "^2.0.3",
+    "markdown-it-mathjax": "^2.0.0",
+    "mathpix-markdown-it": "^2.0.8"
+  }
+}
