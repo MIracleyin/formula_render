@@ -23,14 +23,5 @@ function blockKatexRender(text) {
     }
 }
 
-// function blockMathpixRender(text) {
-//     const result = mathpixmd.render(text);
-//     return JSON.stringify({
-//         success: true,
-//         html: result,   
-//         raw: text,
-//     });
-// }
-
-// console.log(blockRender("e=mc^2"));
+console.log(blockKatexRender("$e=mc^2$"));
 
